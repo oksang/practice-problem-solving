@@ -1,4 +1,4 @@
-const { solution } = require("./5-multiply");
+const { solution } = require("./2588-multiply");
 
 test("print an answer", () => {
   const consoleSpy = jest.spyOn(console, "log");

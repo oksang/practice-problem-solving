@@ -1,4 +1,4 @@
-const { solution } = require("./3-dog");
+const { solution } = require("./10172-dog");
 
 test("print the dog ascii art", () => {
   const consoleSpy = jest.spyOn(console, "log");

@@ -1,4 +1,4 @@
-const { solution } = require("./2-cat");
+const { solution } = require("./10171-cat");
 
 test("print the cat ascii art", () => {
   const consoleSpy = jest.spyOn(console, "log");
