@@ -6,7 +6,7 @@ afterEach(() => {
 	consoleSpy.mockClear();
 })
 
-test("prints the sum of 'a's and 'b's", () => {
+test("prints the star pattern", () => {
   const input = 5;
   const result = `*
 **
